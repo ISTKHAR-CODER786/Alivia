@@ -5,7 +5,7 @@
 # ❌ Unauthorized forking, importing, or using this code
 #    without giving proper credit will result in legal action ⚠️
 # 
-# 📩 DM for permission : @MrRockytg
+# 📩 DM for permission : @Itzz_Istkhar
 # ===========================================================
 
 HELP_1 = """<b><u>⊚ ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs :</b></u>
@@ -33,7 +33,7 @@ HELP_1 = """<b><u>⊚ ᴀᴅᴍɪɴ ᴄᴏᴍᴍᴀɴᴅs :</b></u>
 
 /speed or /playback : ғᴏʀ ᴀᴅᴊᴜsᴛɪɴɢ ᴛʜᴇ ᴀᴜᴅɪᴏ ᴘʟᴀʏʙᴀᴄᴋ sᴘᴇᴇᴅ ɪɴ ɢʀᴏᴜᴘ.
 
-**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [𐍂 σ 𝛓 𝛋 ‌𝛄](t.me/mrrockytg)**
+**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [ 𝛊 𝛅 𝜏 ƙ н 𝛂 𝐫](t.me/Itzz_Istkhar)**
 """
 
 HELP_2 = """
@@ -47,7 +47,7 @@ HELP_2 = """
 
 /authusers : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ᴀᴜᴛʜ ᴜsᴇʀs ᴏғ ᴛʜᴇ ɢʀᴏᴜᴩ.
 
-**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [𐍂 σ 𝛓 𝛋 ‌𝛄](t.me/mrrockytg)**
+**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [ 𝛊 𝛅 𝜏 ƙ н 𝛂 𝐫](t.me/Itzz_Istkhar)**
 """
 
 HELP_3 = """
@@ -71,7 +71,7 @@ HELP_3 = """
 ```
 /broadcast -user -assistant -pin ᴛᴇsᴛɪɴɢ ʙʀᴏᴀᴅᴄᴀsᴛ
 ```
-**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [𐍂 σ 𝛓 𝛋 ‌𝛄](t.me/mrrockytg)**
+**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [ 𝛊 𝛅 𝜏 ƙ н 𝛂 𝐫](t.me/Itzz_Istkhar)**
 """
 
 HELP_4 = """<u><b>⊚ ʙʟᴀᴄᴋʟɪsᴛ ғᴇᴀᴛᴜʀᴇ :</b></u> [ᴏɴʟʏ ғᴏʀ sᴜᴅᴏᴇʀs]
@@ -94,7 +94,7 @@ HELP_4 = """<u><b>⊚ ʙʟᴀᴄᴋʟɪsᴛ ғᴇᴀᴛᴜʀᴇ :</b></u> [ᴏɴ
 
 /blockedusers : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ʙʟᴏᴄᴋᴇᴅ ᴜsᴇʀs.
 
-**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [𐍂 σ 𝛓 𝛋 ‌𝛄](t.me/mrrockytg)**
+**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [ 𝛊 𝛅 𝜏 ƙ н 𝛂 𝐫](t.me/Itzz_Istkhar)**
 """
 
 HELP_5 = """
@@ -119,7 +119,7 @@ HELP_5 = """
 
 /channelplay [ᴄʜᴀᴛ ᴜsᴇʀɴᴀᴍᴇ ᴏʀ ɪᴅ] ᴏʀ [ᴅɪsᴀʙʟᴇ] : ᴄᴏɴɴᴇᴄᴛ ᴄʜᴀɴɴᴇʟ ᴛᴏ ᴀ ɢʀᴏᴜᴩ ᴀɴᴅ sᴛᴀʀᴛs sᴛʀᴇᴀᴍɪɴɢ ᴛʀᴀᴄᴋs ʙʏ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴄᴏᴍᴍᴀɴᴅs sᴇɴᴛ ɪɴ ɢʀᴏᴜᴩ.
 
-**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [𐍂 σ 𝛓 𝛋 ‌𝛄](t.me/mrrockytg)**
+**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [ 𝛊 𝛅 𝜏 ƙ н 𝛂 𝐫](t.me/Itzz_Istkhar)**
 """
 
 HELP_6 = """
@@ -131,7 +131,7 @@ HELP_6 = """
 
 /gbannedusers : sʜᴏᴡs ᴛʜᴇ ʟɪsᴛ ᴏғ ɢʟᴏʙᴀʟʟʏ ʙᴀɴɴᴇᴅ ᴜsᴇʀs.
 
-**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [𐍂 σ 𝛓 𝛋 ‌𝛄](t.me/mrrockytg)**
+**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [ 𝛊 𝛅 𝜏 ƙ н 𝛂 𝐫](t.me/Itzz_Istkhar)**
 """
 
 HELP_7 = """
@@ -147,7 +147,7 @@ HELP_7 = """
 
 /autoend [ᴇɴᴀʙʟᴇ|ᴅɪsᴀʙʟᴇ] : ᴇɴᴀʙʟᴇ sᴛʀᴇᴀᴍ ᴀᴜᴛᴏ ᴇɴᴅ ɪғ ɴᴏ ᴏɴᴇ ɪs ʟɪsᴛᴇɴɪɴɢ.
 
-**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [𐍂 σ 𝛓 𝛋 ‌𝛄](t.me/mrrockytg)**
+**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [ 𝛊 𝛅 𝜏 ƙ н 𝛂 𝐫](t.me/Itzz_Istkhar)**
 """
 
 HELP_8 = """
@@ -159,7 +159,7 @@ HELP_8 = """
 
 /maintenance [ᴇɴᴀʙʟᴇ/ᴅɪsᴀʙʟᴇ] : ᴇɴᴀʙʟᴇ ᴏʀ ᴅɪsᴀʙʟᴇ ᴛʜᴇ ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ ᴍᴏᴅᴇ ᴏғ ʏᴏᴜʀ ʙᴏᴛ.
 
-**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [𐍂 σ 𝛓 𝛋 ‌𝛄](t.me/mrrockytg)**
+**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [ 𝛊 𝛅 𝜏 ƙ н 𝛂 𝐫](t.me/Itzz_Istkhar)**
 """
 
 HELP_9 = """
@@ -183,14 +183,14 @@ HELP_9 = """
 
 /stats : sʜᴏᴡs ᴛʜᴇ ᴏᴠᴇʀᴀʟʟ sᴛᴀᴛs ᴏғ ᴛʜᴇ ʙᴏᴛ.
 
-**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [𐍂 σ 𝛓 𝛋 ‌𝛄](t.me/mrrockytg)**
+**⊚ ᴄʀᴇᴀᴛᴇᴅ ʙʏ :- [ 𝛊 𝛅 𝜏 ƙ н 𝛂 𝐫](t.me/Itzz_Istkhar)**
 """
 
 
 # ===========================================================
 # ©️ 2025-26 All Rights Reserved by Team Rocky (Im-Notcoder) 😎
 # 
-# 🧑‍💻 Developer : t.me/mrrockytg
+# 🧑‍💻 Developer : t.me/Itzz_Istkhar
 # 🔗 Source link : t.me/rockyxsupport
 # 📢 Telegram channel : t.me/rockyxupdate
 # ===========================================================
